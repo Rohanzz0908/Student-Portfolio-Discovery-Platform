@@ -34,8 +34,8 @@ A modern, full-stack MERN application designed to help students showcase their s
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
-cd fffff
+git clone <https://github.com/Rohanzz0908/Student-Portfolio-Discovery-Platform>
+cd filename
 ```
 
 ### 2. Setup Backend
